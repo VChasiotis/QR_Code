@@ -1,3 +1,3 @@
 # QR_Code
-A small QR_Code snippet in HTML/CSS 
+A small QR_Code snippet in HTML/CSS that has a live URL 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
